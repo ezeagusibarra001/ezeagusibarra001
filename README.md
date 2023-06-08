@@ -2,24 +2,24 @@
 
 ## About Me
 
-I am a passionate software developer with expertise in [insert your areas of expertise here, e.g., web development, mobile app development, etc.]. I love building innovative solutions and contributing to the ever-evolving world of technology.
+I am a passionate software developer with expertise in React JS & Native, Next JS, JavaScript, Node JS, SQL, Mongo DB, Firebase. I love building innovative solutions and contributing to the ever-evolving world of technology.
 
 Check out my LinkedIn profile [here](https://www.linkedin.com/in/ibarraezequiel/) to learn more about my professional background and experience.
 
 ## Technologies and Tools
 
-- Programming languages: [list the languages you're proficient in, e.g., Python, JavaScript, Java]
-- Frameworks and libraries: [mention frameworks and libraries you have experience with, e.g., React, Django, Node.js]
-- Databases: [list databases you're familiar with, e.g., MySQL, PostgreSQL]
-- Version control: [e.g., Git, GitHub]
+- Programming languages: Python, JavaScript
+- Frameworks and libraries: Next JS, React JS & Native, Node JS, Angular
+- Databases: SQL, Mongo DB, Firebase
+- Version control: Git, GitHub
 
 ## Projects
 
 Here are a few noteworthy projects I've worked on:
 
-- **[Project Name](link-to-project-repository)**: Brief description of the project.
-- **[Project Name](link-to-project-repository)**: Brief description of the project.
-- **[Project Name](link-to-project-repository)**: Brief description of the project.
+- **[Doggo Web](https://www.doggoapp.com.ar/)**: App para encontrar perros perdidos, adoptar y ayudar a cambiar vidas caninas.
+- **[Big D](https://big-d.vercel.app/)**: Ecommerce de venta de productos.
+- **[Tus Propiedades Ya](https://tuspropiedadesya.vercel.app/)**: Web de venta de propiedades.
 
 Feel free to explore my GitHub repositories [here](https://github.com/ezeagusibarra001) to see more of my work.
 
